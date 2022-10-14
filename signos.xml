@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<signos>
+        <signos>
+                <dataInicio>0321</dataInicio>
+                <dataFim>0420</dataFim>
+                <signoNome>Áries</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>0421</dataInicio>
+                <dataFim>0520</dataFim>
+                <signoNome>Touro</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>0521</dataInicio>
+                <dataFim>0620</dataFim>
+                <signoNome>Gêmeos</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>0621</dataInicio>
+                <dataFim>0722</dataFim>
+                <signoNome>Câncer</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>0723</dataInicio>
+                <dataFim>0822</dataFim>
+                <signoNome>Leão</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                 <dataInicio>0823</dataInicio>
+                 <dataFim>0922</dataFim>
+                 <signoNome>Virgem</signoNome>
+                 <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>0923</dataInicio>
+                <dataFim>1022</dataFim>
+                <signoNome>Libra</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>1023</dataInicio>
+                <dataFim>1121</dataFim>
+                <signoNome>Escorpião</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>1122</dataInicio>
+                <dataFim>1221</dataFim>
+                <signoNome>Sagitário</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>1222</dataInicio>
+                <dataFim>0120</dataFim>
+                <signoNome>Capricórnio</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>0121</dataInicio>
+                <dataFim>0218</dataFim>
+                <signoNome>Aquário</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+        <signos>
+                <dataInicio>0219</dataInicio>
+                <dataFim>0320</dataFim>
+                <signoNome>Peixes</signoNome>
+                <descricao>Lorem dolor sit amet.</descricao>
+        </signos>
+</signos>                                                                                             
